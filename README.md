@@ -1,6 +1,6 @@
-### Hi there 👋
+### Repositář 👋
 
-My name is Tomas Cejka, java developer, http://tomascejka.github.io/
+Jmenuji se Tomáš Čejka, java developer, http://tomascejka.github.io/
 
 <!--
 **tomascejka/tomascejka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
